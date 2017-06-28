@@ -1,0 +1,11 @@
+{
+  "name": "workflow",
+  "homepage": "https://github.com/davsonsantos/atividade-workflow",
+  "authors": [
+    "Davson Santos <davsonsantos@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}

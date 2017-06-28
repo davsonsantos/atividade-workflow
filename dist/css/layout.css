@@ -1,0 +1,16 @@
+.block {
+  background-color: red;
+}
+
+.block__title {
+  color: white;
+}
+
+.block__img {
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.block__a {
+  text-decoration: none;
+}

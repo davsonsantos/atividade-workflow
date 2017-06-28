@@ -1,0 +1,16 @@
+.package {
+  background-color: red;
+
+  &__title {
+    color: white;
+  }
+
+  &__img {
+    border: 1px solid #eee;
+    border-radius: 5px;
+  }
+
+  &__h1 {
+    font-size: 0.9em;
+  }
+}
